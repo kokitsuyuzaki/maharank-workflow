@@ -7,7 +7,7 @@ Workflow to generate the reference files for MahaRank
 - Singularity: 3.9.2
 
 # Summary
-![](https://github.com/kokitsuyuzaki/maharank-workflow/blob/master/plot/auc.png)
+![](https://github.com/kokitsuyuzaki/maharank-workflow/blob/main/plot/auc.png)
 
 # How to reproduce this workflow
 In local machine:
