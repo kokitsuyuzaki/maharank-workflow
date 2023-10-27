@@ -1,7 +1,7 @@
 # maharank-workflow
 Snakemake workflow to generate the reference files for MahaRank
 
-This workflow consists of XXXX workflows as follows:
+This workflow consists of nine workflows as follows:
 
 - **workflow/identifier.smk**: ID retreival
 
